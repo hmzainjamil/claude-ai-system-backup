@@ -1,5 +1,9 @@
 # claude-ai-system-backup
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **Claude AI System Backup** — Master backup of the entire HMZ Claude AI system: 80+ bin scripts, 17 skills, agents, LaunchAgents.
 
 <p align="center">
